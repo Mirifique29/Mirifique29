@@ -1,6 +1,6 @@
 <h2>👋 Hello and welcome to my Github page.</h2>
 
-<p>- 👤 I am Jean-Eudes Vaugelas Djotan, web developer, full stack, passionate about digital, 3D and 4D virtualization technologies, nanotechnologies...<br>
+<p>- 👤 I am <b>Jean-Eudes Vaugelas Djotan</b>, web developer, full stack, passionate about digital, 3D and 4D virtualization technologies, nanotechnologies...<br>
   - 💻 Laravel PHP, VueJs, ReactJS Developer<br>
   - ✨ Techeducator at ImpalaEdTech from ImpalaBridge<br>
   - ✨ CoderDojo Animator<br>
